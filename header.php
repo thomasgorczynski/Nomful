@@ -15,9 +15,7 @@
     <meta name="author" content="nomful" /> 
     <meta name="robots" content="index, follow, noydir" /> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <link rel="icon" 
-      type="image/png" 
-      href="">
+    <link rel="icon" type="image/png" href="">
 
 	<!-- Mobile Specific Metas
   ================================================== -->
@@ -33,7 +31,7 @@
     <script src="js/foundation.min.js"></script>
     <script src="js/classie.js"></script>
     <script src="js/jquery-2.1.0.min.js"></script>
-	<script src="js/app.js"></script>
+    <script src="js/app.js"></script>
     <script src="//use.typekit.net/zcg5xnb.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
     
