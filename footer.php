@@ -13,7 +13,9 @@
     </div>
   </div> -->
   
-  <div class="copyright">
+  <div class="copyright"><center>
+    <a href="privacy.php" target="_blank">Privacy Policy</a>
+    <a href="terms.php" target="_blank">Terms of Service</a></center>
     <p>&copy; 2015 Nomful, Inc.</p>
   </div>
   
