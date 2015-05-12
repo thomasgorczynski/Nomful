@@ -15,7 +15,10 @@
     <meta name="author" content="nomful" /> 
     <meta name="robots" content="index, follow, noydir" /> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <link rel="icon" type="image/png" href="">
+    <meta name="google-site-verification" content="s-PDv36DeQ8GbPWkvISgveTSpQBsb7BQSMJTfiK_7Ps" />
+    <link rel="icon" 
+      type="image/png" 
+      href="">
 
 	<!-- Mobile Specific Metas
   ================================================== -->
@@ -31,9 +34,20 @@
     <script src="js/foundation.min.js"></script>
     <script src="js/classie.js"></script>
     <script src="js/jquery-2.1.0.min.js"></script>
-    <script src="js/app.js"></script>
+	<script src="js/app.js"></script>
     <script src="//use.typekit.net/zcg5xnb.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
+  
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-62272031-2', 'auto');
+      ga('send', 'pageview');
+
+    </script>
     
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>

@@ -4,7 +4,7 @@
       <div class="intro-content">
         <div class="medium-5 columns">
           <h1>Nutrition simplified</h1>
-          <h3>Personalized support from an nutrition coach to optimize your health routine.</h3>
+          <h3>Personalized support from a nutrition coach to optimize your health routine</h3>
           <a href="#join-now" class="join-now-button">Join now!</a>
         </div>
       </div>
@@ -12,6 +12,7 @@
   </div>
 
 
+  <div class="special-grapefruit">
   <div class="masthead-grapefruit">
     <div class="row masthead-content">
       <div class="grapefruit-content">
@@ -22,15 +23,19 @@
       </div>
     </div>
   </div>
+  </div>
 
   <div class="masthead-asparagus">
    <div class="row masthead-content">
+<<<<<<< HEAD
       <div class="asparagus-content">
         <div class="medium-8 medium-offset-2 columns asparagus-content">
+=======
+        <div class="medium-5 medium-offset-1 columns asparagus-content">
+>>>>>>> origin/master
           <h1>Personalized Support</h1>
           <h3>Everyone reacts differently to different foods. Nomful coaches help you achieve your goals by crafting a personalized nutrition plan that fits into your lifestyle.</h3>
         </div>
-      </div>
     </div>
   </div>
 
