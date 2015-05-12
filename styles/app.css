@@ -278,7 +278,7 @@ footer {
     height: 700px;
     background-color: #Fff;
   }
-  
+
 }
 
 @media only screen and ( max-width: 479px ) {
@@ -291,14 +291,10 @@ footer {
     display: block;
   }
 
+
   .grapefruit-content {
-  display: table-cell;
-  text-align: right;
-  vertical-align: middle;
-  margin-top: 25px;
-  margin-bottom: 25px;
+    text-align: center;
   }
-
-
+  
  
 }
