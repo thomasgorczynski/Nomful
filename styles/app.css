@@ -44,17 +44,24 @@ img.reg-logo {
   background-image: url('../img/grapefruit2.png');
   background-size: auto 100%;
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: bottom left;
   height: 700px;
   background-color: #Fff;
 }
 
 .masthead-asparagus {
-  background-image: url('http://nomful.com/img/asparagus.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-image: url('../img/purty_wood.jpg');
+  background-size: auto;
+  background-repeat: repeat;
   background-position: center;
   height: 850px;
+}
+
+.masthead-asparagus .masthead-content {
+  
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: right top;
 }
 
 .masthead-strawberry {
@@ -78,7 +85,7 @@ img.reg-logo {
 
 .asparagus-content  {
   display: table-cell;
-  text-align: left;
+  text-align: center;
   vertical-align: middle;
 }
 
@@ -98,7 +105,7 @@ img.reg-logo {
 
 .grapefruit-content {
   display: table-cell;
-  text-align: center;
+  text-align: right;
   vertical-align: middle;
   margin-top: 50px;
 }
@@ -124,7 +131,7 @@ input#join-email {
   border: solid 1px rgba(110, 177, 155, 1);
   border-radius: 3px;
   font-family: 'museo-sans-rounded', sans-serif;
-  margin: 0px 8px;
+  margin: 30px 8px;
   background: rgba(110, 177, 155, .1);
 }
 
@@ -263,6 +270,15 @@ footer {
   .mobile-show {
     display: block;
   }
+
+   .masthead-grapefruit {
+    background-image: url('../img/grapefruit2.png');
+    background-size: auto 50%;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    height: 700px;
+    background-color: #Fff;
+  }
   
 }
 
@@ -274,6 +290,14 @@ footer {
   
   .mobile-show {
     display: block;
+  }
+
+  .grapefruit-content {
+  display: table-cell;
+  text-align: right;
+  vertical-align: middle;
+  margin-top: 25px;
+  margin-bottom: 25px;
   }
 
 
